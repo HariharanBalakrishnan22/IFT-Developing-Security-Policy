@@ -1,6 +1,6 @@
 # IFT-Developing-Security-Policy:
 
-I have added my academic project for the course : IFT 598: Developing security policy, where we created a research paper on DATA BREACH.
+I have added my academic project for the course : IFT 598: Developing security policy, where we created a research paper on DATA BREACH RESPONSE POLICY.
 
 
 About the course:
